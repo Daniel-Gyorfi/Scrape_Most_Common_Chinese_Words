@@ -1,1 +1,2 @@
-This program was developed by Daniel Gyorfi to aid in learning the Chinese language by showing the most common chinese words in a webpage or text file. This leverages the fact that the usage of words in a language follows the Pareto Principle and/or the Zipf rule. 
+This program was developed to aid in learning the Chinese language by showing the most common chinese words in a webpage or text file. 
+Currently, only webpages encoded in UTF-8 are supported(such as Chinese Wikipedia entries).
